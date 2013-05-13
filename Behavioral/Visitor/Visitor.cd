@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Visitor.TotalCostVisitor" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQBAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TotalCostVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Visitor.ComponentsNumberVisitor" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAARAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>ComponentsNumberVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Visitor.IEquipment">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAQAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>IEquipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.Card">
+    <Position X="0.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAQAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.CompositeEquipment">
+    <Position X="3.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAQAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>CompositeEquipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Visitor.IVisitor">
+    <Position X="7" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ExtensionObject.Assembly" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAgEAAAYBAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assembly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtensionObject.PiecePart" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="3.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAYAAAAFAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PiecePart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtensionObject.IPart">
+    <Position X="1.75" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAQAAAAAAAAEAAAAABAAAAAAAAAAg=</HashCode>
+      <FileName>IPart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtensionObject.ITxtPartExtension">
+    <Position X="18" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITxtPartExtension.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExtensionObject.ICsvPartExtension">
+    <Position X="10.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ICsvPartExtension.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExtensionObject.CsvAssemblyExtension">
+    <Position X="8.75" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>CsvAssemblyExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtensionObject.CsvPiecePartExtension">
+    <Position X="12" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAEA=</HashCode>
+      <FileName>CsvPiecePartExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtensionObject.TxtAssemblyExtension">
+    <Position X="15.75" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TxtAssemblyExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtensionObject.TxtPiecePartExtension">
+    <Position X="19" Y="3.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAEA=</HashCode>
+      <FileName>TxtPiecePartExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ExtensionObject.IPartExtension" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPartExtension.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
